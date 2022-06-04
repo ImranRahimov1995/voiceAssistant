@@ -1,3 +1,4 @@
 silero
 sounddevice
 numpy
+vosk
