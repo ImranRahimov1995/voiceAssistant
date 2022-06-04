@@ -1,0 +1,3 @@
+silero
+sounddevice
+numpy
