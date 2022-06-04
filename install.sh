@@ -1,6 +1,10 @@
 # need to ubuntu
 sudo apt-get install libportaudio2
 sudo apt-get install libasound-dev
+#pyaudio error solved
+sudo apt-get install libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0
+sudo apt-get install ffmpeg libav-tools
+sudo pip install pyaudio
 
 python3 -m venv venv 
 source venv/bin/activate
