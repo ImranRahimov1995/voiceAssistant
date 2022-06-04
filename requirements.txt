@@ -2,3 +2,4 @@ silero
 sounddevice
 numpy
 vosk
+SpeechRecognition
